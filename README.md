@@ -1,4 +1,4 @@
-# project Desription
+# Project Desription
 Key-Value Memory Network for Question Answering
 This project implements a Key-Value Memory Network to perform fact-based question answering using a simplified version of the Wikipedia biography dataset. The model learns to retrieve answers by associating entity-relation pairs with factual information and leveraging memory-based attention mechanisms.
 
